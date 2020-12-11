@@ -18,8 +18,6 @@ The #React100 challenge is a commitment to learn React for the next 100 days.
 * [Scrimba - React](https://scrimba.com/learn/learnreact// "Scrimba - React")
 
 # Week 1
-Treehouse's 7 hours course. <br/>
-Link: https://teamtreehouse.com/tracks/learn-react
 
 - [ ] React Basics
 - [ ] React Components
