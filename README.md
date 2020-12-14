@@ -16,6 +16,7 @@ The #React100 challenge is a commitment to learn React for the next 100 days.
 * [Treehouse - React](https://teamtreehouse.com/tracks/learn-react// "Treehouse - React")
 * [freeCodeCamp - React](https://www.freecodecamp.org/learn/front-end-libraries/react// "freeCodeCamp - React")
 * [Scrimba - React](https://scrimba.com/learn/learnreact// "Scrimba - React")
+* [Geeks for Geeks - React](https://www.geeksforgeeks.org/react-js-introduction-working/?ref=lbp// "Geeks for Geeks - React")
 
 # Week 1
 
