@@ -20,11 +20,11 @@ The #React100 challenge is a commitment to learn React for the next 100 days.
 
 # Week 1
 
-- [ ] React Basics
-- [ ] React Components
-- [ ] Using Create React App
+- [X] React Basics
+- [X] React Components
+- [X] Using Create React App
 - [ ] React Context API
-- [ ] React Router 4 Basics
+- [ ] React Hooks
 - [ ] What is new in React 16
 - [ ] Data Fetching in React
 - [ ] Deploy a React App
